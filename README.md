@@ -1,5 +1,5 @@
 ## Hi, my name is Chancelor... but I prefer you call me Chance! ☺️
-![Chancelor Headshot](https://github.com/cassiama/cassiama/blob/main/c144e7ce-e430-49dc-82b7-d6e478a7789d%20-%20Small.JPG)
+![Chancelor Headshot](https://github.com/cassiama/cassiama/blob/main/4257a4e8-829f-4859-91cf-9621d914405d%20-%20Small.JPG)
 
 - 🎓 **Stevens Institute of Technology** graduate (B.S. '24, M.S. '25)
 - 🏢 Worked at **Johnson & Johnson**, **Numerix**, and **NeuraFlash** as an intern, where I gained experience in backend development, QA automation, and ML projects.
